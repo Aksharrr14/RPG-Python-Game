@@ -1,6 +1,6 @@
-RPG Python Game
+**RPG Python Game
 Welcome to the RPG Python Game! This is an adventure game developed in Python using the Pygame library.
-
+**
 Getting Started
 To play the game, follow these steps:
 
